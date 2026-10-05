@@ -122,8 +122,6 @@ Design choices:
 
 ## Key Insights
 
-> Draft based on the dashboard. Edit to match your own reading of the data.
-
 - **São Paulo dominates revenue.** SP is the clear top state, well ahead of RJ, MG, RS and PR.
 - **Growth is coming from order value, not volume.** AOV rose 2.73% QoQ and revenue rose 2.91%, while orders fell 5.47% and customers fell 4.77%.
 - **Retention is very low.** Only 5.73% of customers return in the following quarter, so the marketplace relies heavily on acquiring new customers.
@@ -161,5 +159,5 @@ Python (pandas, SQLAlchemy) · PostgreSQL · Power BI (DAX, data modelling) · J
 ## Author
 
 **Ezra**
-Aspiring Data Analyst
+Data Analyst
 [GitHub](https://github.com/MichaelOkere30?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/ezra-val-okere-1a84b4273)
